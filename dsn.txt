@@ -1,0 +1,1 @@
+edgedb://edgedb:password@rekko-edb.internal:8080
